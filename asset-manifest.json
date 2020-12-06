@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Garvishim/static/css/main.41cfca07.chunk.css",
-    "main.js": "/Garvishim/static/js/main.35b18f1e.chunk.js",
-    "main.js.map": "/Garvishim/static/js/main.35b18f1e.chunk.js.map",
+    "main.css": "/Garvishim/static/css/main.de2dbe08.chunk.css",
+    "main.js": "/Garvishim/static/js/main.45b3ef42.chunk.js",
+    "main.js.map": "/Garvishim/static/js/main.45b3ef42.chunk.js.map",
     "runtime-main.js": "/Garvishim/static/js/runtime-main.0ee9de99.js",
     "runtime-main.js.map": "/Garvishim/static/js/runtime-main.0ee9de99.js.map",
     "static/js/2.5e4f5a4b.chunk.js": "/Garvishim/static/js/2.5e4f5a4b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.83a1a5d8.chunk.js": "/Garvishim/static/js/3.83a1a5d8.chunk.js",
     "static/js/3.83a1a5d8.chunk.js.map": "/Garvishim/static/js/3.83a1a5d8.chunk.js.map",
     "index.html": "/Garvishim/index.html",
-    "static/css/main.41cfca07.chunk.css.map": "/Garvishim/static/css/main.41cfca07.chunk.css.map",
+    "static/css/main.de2dbe08.chunk.css.map": "/Garvishim/static/css/main.de2dbe08.chunk.css.map",
     "static/js/2.5e4f5a4b.chunk.js.LICENSE.txt": "/Garvishim/static/js/2.5e4f5a4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ee9de99.js",
     "static/js/2.5e4f5a4b.chunk.js",
-    "static/css/main.41cfca07.chunk.css",
-    "static/js/main.35b18f1e.chunk.js"
+    "static/css/main.de2dbe08.chunk.css",
+    "static/js/main.45b3ef42.chunk.js"
   ]
 }
